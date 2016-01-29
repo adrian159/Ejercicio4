@@ -23,6 +23,9 @@ public class HolaMundo {
   
         System.out.println("la suma entre a y b es "+resultado);    
 
+        
+        int resultado2 = a-b;
+        System.out.println("la resta entre a y b es " + resultado2);
            
         }
         
